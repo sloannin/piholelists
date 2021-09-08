@@ -1,21 +1,315 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,1,infrastructure-context.service.newrelic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/blacklist.txt"
+2,1,www.fordescape.org,1,1589302375,1589302375,"Migrated from /etc/pihole/blacklist.txt"
+3,1,dailycoupons.mobi,1,1589302375,1589302375,"Migrated from /etc/pihole/blacklist.txt"
+4,0,0.client-channel.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+5,0,1drv.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+6,0,2.android.pool.ntp.org,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+7,0,a1843.g.akamai.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+8,0,ads.mopub.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+9,0,akamaihd.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+10,0,akamaitechnologies.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+11,0,akamaized.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+12,0,alluremedia.com.au,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+13,0,amazonaws.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+14,0,android.clients.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+15,0,api2.branch.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+16,0,api.ipify.org,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+17,0,api.rlje.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+18,0,api.segment.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+19,0,app-api.ted.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+20,0,appboy-images.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+21,0,appleid.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+22,0,app.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+23,0,appsbackup-pa.clients6.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+24,0,appsbackup-pa.googleapis.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+25,0,apps.skype.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+26,0,apt.sonarr.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+27,0,aspnetcdn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+28,0,attestation.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+29,0,ax.phobos.apple.com.edgesuite.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+30,0,bam.nr-data.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+31,0,brightcove.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+32,0,bufferapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+33,0,c.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+34,0,cdn2.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+35,0,cdn3.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+36,0,cdn.cloudflare.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+37,0,cdn.embedly.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+38,0,cdnjs.cloudflare.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+39,0,cdn.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+40,0,cdn.vidible.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+41,0,cert.mgt.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+42,0,clientconfig.passport.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+43,0,clients1.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+44,0,clients2.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+45,0,clients3.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+46,0,clients4.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+47,0,clients5.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+48,0,clients6.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+49,0,client.schwab.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+50,0,cpms35.spop10.ams.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+51,0,cpms.spop10.ams.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+52,0,cse.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+53,0,c.s-microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+54,0,ctldl.windowsupdate.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+55,0,d2c8v52ll5s99u.cloudfront.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+56,0,d2gatte9o95jao.cloudfront.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+57,0,dashboard.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+58,0,dataplicity.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+59,0,def-vef.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+60,0,delivery.vidible.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+61,0,device-api.urbanairship.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+62,0,device.auth.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+63,0,dev.virtualearth.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+64,0,di.rlcdn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+65,0,displaycatalog.mp.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+66,0,display.ugc.bazaarvoice.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+67,0,disqus.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+68,0,dl.delivery.mp.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+69,0,dl.dropbox.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+70,0,dl.dropboxusercontent.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+71,0,dns.msftncsi.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+72,0,download.sonarr.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+73,0,drift.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+74,0,driftt.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+75,0,dynupdate.no-ip.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+76,0,ecn.dev.virtualearth.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+77,0,ec-ns.sascdn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+78,0,edge.api.brightcove.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+79,0,eds.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+80,0,epidm.edgesuite.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+81,0,espn.go.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+82,0,etahub.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+83,0,f.chtah.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+84,0,fonts.gstatic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+85,0,forums.sonarr.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+86,0,fox5sandiego.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+87,0,geo3.ggpht.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+88,0,geo-prod.do.dsp.mp.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+89,0,giphy.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+90,0,github.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+91,0,github.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+92,0,gleam.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+93,0,g.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+94,0,googleapis.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+95,0,go.redirectingat.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+96,0,gravatar.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+97,0,gstatic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+98,0,g.symcd.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+99,0,hackaday.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+100,0,help.ui.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+101,0,hls.ted.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+102,0,hubtraffic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+103,0,i0.wp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+104,0,i1.ytimg.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+105,0,imagesak.secureserver.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+106,0,imgix.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+107,0,imgs.xkcd.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+108,0,img.vidible.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+109,0,instagram.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+110,0,instantmessaging-pa.googleapis.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+111,0,intercom.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+112,0,iphonesubmissions.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+113,0,i.s-microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+114,0,i.ytimg.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+115,0,jalopnik.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+116,0,j.mp,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+117,0,jquery.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+118,0,js-agent.newrelic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+120,0,keystone.mwbsys.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+121,0,kotaku.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+122,0,lastfm-img2.akamaized.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+123,0,licensing.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+124,0,lifehacker.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+125,0,live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+126,0,login.aliexpress.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+127,0,login.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+128,0,login.microsoftonline.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+129,0,mandrillapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+130,0,manifest.googlevideo.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+131,0,meta-db-worker02.pop.ric.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+132,0,meta.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+133,0,meta.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+134,0,m.hotmail.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+135,0,microsoftonline.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+136,0,mobile-collector.newrelic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+137,0,mobile.pipe.aria.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+138,0,msftncsi.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+139,0,my.plexapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+140,0,newrelic.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+141,0,nexusrules.officeapps.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+142,0,nine.plugins.plexapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+143,0,node.plexapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+144,0,no-ip.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+145,0,notify.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+146,0,npr-news.streaming.adswizz.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+147,0,ns1.dropbox.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+148,0,ns2.dropbox.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+149,0,o1.email.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+150,0,o2.sg0.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+151,0,ocsp.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+152,0,office365.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+153,0,officeclient.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+154,0,office.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+155,0,office.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+156,0,om.cbsi.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+157,0,onedrive.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+158,0,outlook.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+159,0,outlook.office365.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+160,0,pagesix.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+161,0,pandora.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+162,0,pinterest.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+163,0,placehold.it,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+164,0,placeholdit.imgix.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+165,0,players.brightcove.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+166,0,pornhub.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+167,0,pricelist.skype.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+168,0,prod.disqus.map.fastlylb.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+169,0,products.office.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+170,0,proxy02.pop.ord.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+171,0,proxy.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+172,0,proxy.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+173,0,pubsub.plex.bz,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+174,0,pubsub.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+175,0,r20.rs6.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+176,0,radarsubmissions.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+177,0,raw.githubusercontent.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+178,0,redirector.googlevideo.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+179,0,redirect.viglink.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+180,0,res.cloudinary.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+181,0,s1.wp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+182,0,s2.youtube.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+183,0,s3.amazonaws.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+184,0,sa.symcb.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+185,0,secure.avangate.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+186,0,secure.brightcove.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+187,0,secure.surveymonkey.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+188,0,services.sonarr.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+189,0,s.gateway.messenger.live.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+190,0,sharepoint.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+191,0,skyhook.sonarr.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+192,0,s.marketwatch.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+193,0,spclient.wg.spotify.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+194,0,s.shopify.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+195,0,ssl.p.jwpcdn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+196,0,staging.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+197,0,status.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+198,0,s.youtube.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+199,0,s.ytimg.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+200,0,t0.ssl.ak.dynamic.tiles.virtualearth.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+201,0,t0.ssl.ak.tiles.virtualearth.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+202,0,tawk.to,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+203,0,t.co,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+204,0,techgenix.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+205,0,tedcdn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+206,0,themoviedb.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+207,0,thetvdb.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+208,0,tinyurl.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+209,0,title.auth.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+210,0,title.mgt.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+211,0,traffic.libsyn.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+212,0,tvdb2.plex.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+213,0,tvthemes.plexapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+214,0,twimg.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+215,0,twitter.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+216,0,ui.skype.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+217,0,urldefense.proofpoint.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+218,0,variety.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+219,0,video-stats.l.google.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+220,0,videos.vidible.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+221,0,v.shopify.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+222,0,widget-cdn.rpxnow.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+223,0,wikipedia.org,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+224,0,win10.ipv6.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+225,0,wordpress.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+226,0,wp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+227,0,ws.audioscrobbler.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+228,0,www.adt.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+229,0,www.dataplicity.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+230,0,www.googleapis.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+231,0,www.msftncsi.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+232,0,www.no-ip.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+233,0,www.pornhub.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+234,0,www.youtube-nocookie.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+235,0,xboxexperiencesprod.experimentation.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+236,0,xbox.ipv6.microsoft.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+237,0,xflight.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+238,0,xkms.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+239,0,xsts.auth.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+240,0,youtu.be,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+241,0,youtube-nocookie.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+242,0,yt3.ggpht.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+243,0,b-graph.facebook.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+244,0,graph.facebook.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+245,0,cdn.branch.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
+246,3,a.adtng.com,1,1589302375,1589302375,"Migrated from /etc/pihole/regex.list"
+247,2,(\.|^)intuit\.com$,1,1589425021,1589425021,""
+248,0,bc.fan-one.com,1,1589468667,1589468667,
+249,0,neweratickets61-t.neolane.net,1,1589468688,1589468688,
+250,0,mi.bananarepublic.com,1,1589496067,1589496067,
+254,0,c00193-dl.urbanairship.com,1,1589501203,1589501203,
+256,0,sendgrid.net,1,1589550494,1589550494,
+258,0,pages.lifesize.com,1,1589677052,1589677052,
+261,0,activity.windows.com,1,1589909904,1589909904,
+262,0,us-v20.events.data.microsoft.com,1,1589910531,1589910531,
+263,0,nexus.officeapps.live.com,1,1589910587,1589910587,
+264,0,www.mailchimp.com,1,1590020453,1590020453,
+265,0,cdn-images.mailchimp.com,1,1590020491,1590020491,
+266,0,mailchimp.com,1,1590020586,1590020586,
+267,0,staging-mobile-collector.newrelic.com,1,1590030887,1590030887,
+268,0,rpm.newrelic.com,1,1590030937,1590030937,
+269,0,service.newrelic.com,1,1590030972,1590030972,
+270,0,nerd-graph.service.newrelic.com,1,1590031038,1590031038,
+271,0,wildcard.service.newrelic.com,1,1590031077,1590031077,
+272,0,go.skimresources.com,0,1590077754,1590077930,
+273,0,t.skimresources.com,0,1590077758,1590077931,
+274,0,s.skimresources.com,0,1590077787,1590077965,
+275,0,imgssl.constantcontact.com,1,1590081415,1590081415,
+276,0,files.constantcontact.com,1,1590081418,1590081418,
+277,0,rs6.net,1,1590081636,1590081636,
+278,0,ab26.mktossl.com,1,1590517614,1590517614,
+279,0,chartdata.service.newrelic.com,1,1590764046,1590764046,
+280,0,alerts.newrelic.com,1,1590764061,1590764061,
+281,0,api.newrelic.com,1,1590764085,1590764085,
+284,0,p.typekit.net,1,1591221020,1591221020,
+285,1,trafficjunky.com,1,1591991385,1591991385,
+288,3,(\.|^)ord\.adtng\.com$,1,1593151771,1593151771,""
+289,3,(\.|^)ads\.trafficjunky\.net$,1,1593151926,1593151926,""
+290,0,api.whrcloud.com,1,1594259148,1594259148,
+291,0,api.apptentive.com,1,1594310192,1594310192,
+292,0,col.eum-appdynamics.com,1,1594310277,1594310277,
+293,0,branding.api.us.apiconnect.ibmcloud.com,1,1594310332,1594310332,
+294,0,mobile.eum-appdynamics.com,1,1594685589,1594685589,
+295,0,api.mixpanel.com,1,1594685656,1594685656,
+296,1,media.trafficjunky.com,1,1594686511,1594686511,
+297,1,hw-cdn2.adtng.com,1,1595043977,1595043977,"Added from Query Log"
+298,3,(\.|^)adtng\.com$,1,1595044096,1595044096,
+302,3,adtng,1,1595046885,1595046885,
+303,3,trafficjunky,1,1595046898,1595046898,
+304,3,2020mustang,1,1595046905,1595046905,
+305,0,static.iterable.com,1,1595292545,1595292545,"Added from Query Log"
+306,0,api.bluecore.com,1,1597892381,1597892381,"Added from Query Log"
+308,0,assets.adobedtm.com,1,1602722529,1602722529,"Added from Query Log"
+309,0,jsdelvr.net,1,1602722629,1602722629,
+310,0,click.virt.exacttarget.com,1,1604541805,1604541805,"Added from Query Log"
+311,0,login.newrelic.com,1,1605011011,1605011011,"Added from Query Log"
+312,0,go.macrumors.com,1,1606762314,1606762314,"Added from Query Log"
+313,0,dialacrum.iad-03.braze.com,1,1612559000,1612559000,"Added from Query Log"
+314,0,sdk.iad-01.braze.com,1,1612559064,1612559064,"Added from Query Log"
+315,1,freshmarketer.com,1,1619221285,1619221285,
+316,1,browser.sentry-cdn.com,1,1619221327,1619221555,
+317,1,analytics.facebook.com,1,1619221351,1619221351,
+318,1,analytics.pointdrive.linkedin.com,1,1619221377,1619221377,
+319,1,widgets.pinterest.com,1,1619221432,1619221432,
+320,1,supportmetrics.apple.com,1,1619221457,1619221457,
+322,0,diagnostics.meethue.com,1,1619470120,1619470120,"Added from Query Log"
+323,0,combine.urbanairship.com,1,1619560499,1619560499,
+324,0,api.taboola.com,1,1619648710,1619648710,"Added from Query Log"
+326,2,(\.|^)urbanairship\.com$,1,1619748589,1619748589,
+327,0,synthetics.newrelic.com,1,1620404814,1620404814,"Added from Query Log"
+328,0,kvinit-prod.api.kochava.com,1,1625337264,1625337264,"Added from Query Log"
+329,0,control.kochava.com,1,1625337272,1625337272,"Added from Query Log"
+330,0,ads-field.aylanetworks.com,1,1625551055,1625551055,SharkIQ
+331,3,(\.|^)googleadservices\.com$,1,1625851506,1625851506,
+332,0,metrics.icloud.com,1,1626180533,1626180533,"Added from Query Log"
