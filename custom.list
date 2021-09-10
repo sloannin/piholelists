@@ -1,4 +1,3 @@
-10.0.1.10 pi.hole
 10.0.1.1 eeroGateway
 10.0.1.22 NestHello
 10.0.1.23 GarageCam
@@ -36,3 +35,5 @@
 10.0.1.50 iPhone12Pro
 10.0.1.123 Oven
 10.0.1.54 ClaraPhone
+10.0.1.110 pihole1
+10.0.1.10 pihole2

@@ -245,71 +245,71 @@ id,type,domain,enabled,date_added,date_modified,comment
 245,0,cdn.branch.io,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 246,3,a.adtng.com,1,1589302375,1589302375,"Migrated from /etc/pihole/regex.list"
 247,2,(\.|^)intuit\.com$,1,1589425021,1589425021,""
-248,0,bc.fan-one.com,1,1589468667,1589468667,
-249,0,neweratickets61-t.neolane.net,1,1589468688,1589468688,
-250,0,mi.bananarepublic.com,1,1589496067,1589496067,
-254,0,c00193-dl.urbanairship.com,1,1589501203,1589501203,
-256,0,sendgrid.net,1,1589550494,1589550494,
-258,0,pages.lifesize.com,1,1589677052,1589677052,
-261,0,activity.windows.com,1,1589909904,1589909904,
-262,0,us-v20.events.data.microsoft.com,1,1589910531,1589910531,
-263,0,nexus.officeapps.live.com,1,1589910587,1589910587,
-264,0,www.mailchimp.com,1,1590020453,1590020453,
-265,0,cdn-images.mailchimp.com,1,1590020491,1590020491,
-266,0,mailchimp.com,1,1590020586,1590020586,
-267,0,staging-mobile-collector.newrelic.com,1,1590030887,1590030887,
-268,0,rpm.newrelic.com,1,1590030937,1590030937,
-269,0,service.newrelic.com,1,1590030972,1590030972,
-270,0,nerd-graph.service.newrelic.com,1,1590031038,1590031038,
-271,0,wildcard.service.newrelic.com,1,1590031077,1590031077,
-272,0,go.skimresources.com,0,1590077754,1590077930,
-273,0,t.skimresources.com,0,1590077758,1590077931,
-274,0,s.skimresources.com,0,1590077787,1590077965,
-275,0,imgssl.constantcontact.com,1,1590081415,1590081415,
-276,0,files.constantcontact.com,1,1590081418,1590081418,
-277,0,rs6.net,1,1590081636,1590081636,
-278,0,ab26.mktossl.com,1,1590517614,1590517614,
-279,0,chartdata.service.newrelic.com,1,1590764046,1590764046,
-280,0,alerts.newrelic.com,1,1590764061,1590764061,
-281,0,api.newrelic.com,1,1590764085,1590764085,
-284,0,p.typekit.net,1,1591221020,1591221020,
-285,1,trafficjunky.com,1,1591991385,1591991385,
+248,0,bc.fan-one.com,1,1589468667,1589468667,""
+249,0,neweratickets61-t.neolane.net,1,1589468688,1589468688,""
+250,0,mi.bananarepublic.com,1,1589496067,1589496067,""
+254,0,c00193-dl.urbanairship.com,1,1589501203,1589501203,""
+256,0,sendgrid.net,1,1589550494,1589550494,""
+258,0,pages.lifesize.com,1,1589677052,1589677052,""
+261,0,activity.windows.com,1,1589909904,1589909904,""
+262,0,us-v20.events.data.microsoft.com,1,1589910531,1589910531,""
+263,0,nexus.officeapps.live.com,1,1589910587,1589910587,""
+264,0,www.mailchimp.com,1,1590020453,1590020453,""
+265,0,cdn-images.mailchimp.com,1,1590020491,1590020491,""
+266,0,mailchimp.com,1,1590020586,1590020586,""
+267,0,staging-mobile-collector.newrelic.com,1,1590030887,1590030887,""
+268,0,rpm.newrelic.com,1,1590030937,1590030937,""
+269,0,service.newrelic.com,1,1590030972,1590030972,""
+270,0,nerd-graph.service.newrelic.com,1,1590031038,1590031038,""
+271,0,wildcard.service.newrelic.com,1,1590031077,1590031077,""
+272,0,go.skimresources.com,0,1590077754,1590077930,""
+273,0,t.skimresources.com,0,1590077758,1590077931,""
+274,0,s.skimresources.com,0,1590077787,1590077965,""
+275,0,imgssl.constantcontact.com,1,1590081415,1590081415,""
+276,0,files.constantcontact.com,1,1590081418,1590081418,""
+277,0,rs6.net,1,1590081636,1590081636,""
+278,0,ab26.mktossl.com,1,1590517614,1590517614,""
+279,0,chartdata.service.newrelic.com,1,1590764046,1590764046,""
+280,0,alerts.newrelic.com,1,1590764061,1590764061,""
+281,0,api.newrelic.com,1,1590764085,1590764085,""
+284,0,p.typekit.net,1,1591221020,1591221020,""
+285,1,trafficjunky.com,1,1591991385,1591991385,""
 288,3,(\.|^)ord\.adtng\.com$,1,1593151771,1593151771,""
 289,3,(\.|^)ads\.trafficjunky\.net$,1,1593151926,1593151926,""
-290,0,api.whrcloud.com,1,1594259148,1594259148,
-291,0,api.apptentive.com,1,1594310192,1594310192,
-292,0,col.eum-appdynamics.com,1,1594310277,1594310277,
-293,0,branding.api.us.apiconnect.ibmcloud.com,1,1594310332,1594310332,
-294,0,mobile.eum-appdynamics.com,1,1594685589,1594685589,
-295,0,api.mixpanel.com,1,1594685656,1594685656,
-296,1,media.trafficjunky.com,1,1594686511,1594686511,
+290,0,api.whrcloud.com,1,1594259148,1594259148,""
+291,0,api.apptentive.com,1,1594310192,1594310192,""
+292,0,col.eum-appdynamics.com,1,1594310277,1594310277,""
+293,0,branding.api.us.apiconnect.ibmcloud.com,1,1594310332,1594310332,""
+294,0,mobile.eum-appdynamics.com,1,1594685589,1594685589,""
+295,0,api.mixpanel.com,1,1594685656,1594685656,""
+296,1,media.trafficjunky.com,1,1594686511,1594686511,""
 297,1,hw-cdn2.adtng.com,1,1595043977,1595043977,"Added from Query Log"
-298,3,(\.|^)adtng\.com$,1,1595044096,1595044096,
-302,3,adtng,1,1595046885,1595046885,
-303,3,trafficjunky,1,1595046898,1595046898,
-304,3,2020mustang,1,1595046905,1595046905,
+298,3,(\.|^)adtng\.com$,1,1595044096,1595044096,""
+302,3,adtng,1,1595046885,1595046885,""
+303,3,trafficjunky,1,1595046898,1595046898,""
+304,3,2020mustang,1,1595046905,1595046905,""
 305,0,static.iterable.com,1,1595292545,1595292545,"Added from Query Log"
 306,0,api.bluecore.com,1,1597892381,1597892381,"Added from Query Log"
 308,0,assets.adobedtm.com,1,1602722529,1602722529,"Added from Query Log"
-309,0,jsdelvr.net,1,1602722629,1602722629,
+309,0,jsdelvr.net,1,1602722629,1602722629,""
 310,0,click.virt.exacttarget.com,1,1604541805,1604541805,"Added from Query Log"
 311,0,login.newrelic.com,1,1605011011,1605011011,"Added from Query Log"
 312,0,go.macrumors.com,1,1606762314,1606762314,"Added from Query Log"
 313,0,dialacrum.iad-03.braze.com,1,1612559000,1612559000,"Added from Query Log"
 314,0,sdk.iad-01.braze.com,1,1612559064,1612559064,"Added from Query Log"
-315,1,freshmarketer.com,1,1619221285,1619221285,
-316,1,browser.sentry-cdn.com,1,1619221327,1619221555,
-317,1,analytics.facebook.com,1,1619221351,1619221351,
-318,1,analytics.pointdrive.linkedin.com,1,1619221377,1619221377,
-319,1,widgets.pinterest.com,1,1619221432,1619221432,
-320,1,supportmetrics.apple.com,1,1619221457,1619221457,
+315,1,freshmarketer.com,1,1619221285,1619221285,""
+316,1,browser.sentry-cdn.com,1,1619221327,1619221555,""
+317,1,analytics.facebook.com,1,1619221351,1619221351,""
+318,1,analytics.pointdrive.linkedin.com,1,1619221377,1619221377,""
+319,1,widgets.pinterest.com,1,1619221432,1619221432,""
+320,1,supportmetrics.apple.com,1,1619221457,1619221457,""
 322,0,diagnostics.meethue.com,1,1619470120,1619470120,"Added from Query Log"
-323,0,combine.urbanairship.com,1,1619560499,1619560499,
+323,0,combine.urbanairship.com,1,1619560499,1619560499,""
 324,0,api.taboola.com,1,1619648710,1619648710,"Added from Query Log"
-326,2,(\.|^)urbanairship\.com$,1,1619748589,1619748589,
+326,2,(\.|^)urbanairship\.com$,1,1619748589,1619748589,""
 327,0,synthetics.newrelic.com,1,1620404814,1620404814,"Added from Query Log"
 328,0,kvinit-prod.api.kochava.com,1,1625337264,1625337264,"Added from Query Log"
 329,0,control.kochava.com,1,1625337272,1625337272,"Added from Query Log"
 330,0,ads-field.aylanetworks.com,1,1625551055,1625551055,SharkIQ
-331,3,(\.|^)googleadservices\.com$,1,1625851506,1625851506,
+331,3,(\.|^)googleadservices\.com$,1,1625851506,1625851506,""
 332,0,metrics.icloud.com,1,1626180533,1626180533,"Added from Query Log"
