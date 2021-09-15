@@ -273,7 +273,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 280,0,alerts.newrelic.com,1,1590764061,1590764061,""
 281,0,api.newrelic.com,1,1590764085,1590764085,""
 284,0,p.typekit.net,1,1591221020,1591221020,""
-285,1,trafficjunky.com,1,1591991385,1591991385,""
 288,3,(\.|^)ord\.adtng\.com$,1,1593151771,1593151771,""
 289,3,(\.|^)ads\.trafficjunky\.net$,1,1593151926,1593151926,""
 290,0,api.whrcloud.com,1,1594259148,1594259148,""
@@ -313,3 +312,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 330,0,ads-field.aylanetworks.com,1,1625551055,1625551055,SharkIQ
 331,3,(\.|^)googleadservices\.com$,1,1625851506,1625851506,""
 332,0,metrics.icloud.com,1,1626180533,1626180533,"Added from Query Log"
+333,1,trafficjunky.com,1,1631730404,1631730404,"Added from Query Log"
+334,3,(\.|^)livehdcams\.com$,1,1631730458,1631730458,
+335,1,m.2020mustang.com,1,1631730913,1631730913,"Added from Query Log"
+336,1,as.2020mustang.com,1,1631730935,1631730935,"Added from Query Log"
