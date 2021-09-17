@@ -316,3 +316,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 334,3,(\.|^)livehdcams\.com$,1,1631730458,1631730458,
 335,1,m.2020mustang.com,1,1631730913,1631730913,"Added from Query Log"
 336,1,as.2020mustang.com,1,1631730935,1631730935,"Added from Query Log"
+337,2,(\.|^)regmovies\.com$,1,1631840770,1631840770,
