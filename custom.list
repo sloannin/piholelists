@@ -11,7 +11,6 @@
 10.0.1.112 CoffeeMaker
 10.0.1.116 ConnectSense
 10.0.1.91 DiningPod
-10.0.1.90 BedroomPod
 10.0.1.92 OfficePod
 10.0.1.96 DoorbellChime2
 10.0.1.97 Echo
@@ -37,3 +36,7 @@
 10.0.1.110 pihole1
 10.0.1.10 pihole2
 10.0.1.50 iPhone13Pro
+10.0.1.90 MediaRoomPod
+10.0.1.95 BedroomPod
+10.0.1.107 GoogleHub
+10.0.1.12 10-0-1-12.local.starling.direct
