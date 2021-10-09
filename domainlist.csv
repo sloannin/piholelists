@@ -318,3 +318,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 336,1,as.2020mustang.com,1,1631730935,1631730935,"Added from Query Log"
 337,2,(\.|^)regmovies\.com$,1,1631840770,1631840770,
 338,1,us-east-adsrv.rtbsuperhub.com,1,1632068999,1632068999,"Added from Query Log"
+339,1,ht-cdn2.adtng.com,1,1633750925,1633750925,"Added from Query Log"
+340,1,static.trafficjunky.com,1,1633750954,1633750954,"Added from Query Log"
+341,1,ht-cdn2.adtng.com.sds.rncdn7.com,1,1633751270,1633751270,"Added from Query Log"
