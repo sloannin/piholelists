@@ -281,7 +281,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 293,0,branding.api.us.apiconnect.ibmcloud.com,1,1594310332,1594310332,""
 294,0,mobile.eum-appdynamics.com,1,1594685589,1594685589,""
 295,0,api.mixpanel.com,1,1594685656,1594685656,""
-296,1,media.trafficjunky.com,1,1594686511,1594686511,""
 297,1,hw-cdn2.adtng.com,1,1595043977,1595043977,"Added from Query Log"
 298,3,(\.|^)adtng\.com$,1,1595044096,1595044096,""
 302,3,adtng,1,1595046885,1595046885,""
@@ -321,3 +320,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 339,1,ht-cdn2.adtng.com,1,1633750925,1633750925,"Added from Query Log"
 340,1,static.trafficjunky.com,1,1633750954,1633750954,"Added from Query Log"
 341,1,ht-cdn2.adtng.com.sds.rncdn7.com,1,1633751270,1633751270,"Added from Query Log"
+342,1,media.trafficjunky.com,1,1634356243,1634356243,"Added from Query Log"
