@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1639980303,99055,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1639980303,99055,0,2
 2,https://mirror1.malwaredomains.com/files/justdomains,0,1589302375,1611118397,"Migrated from /etc/pihole/adlists.list",1607609933,0,0,0
 3,http://sysctl.org/cameleon/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1639687151,20564,0,2
 4,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,0,1589302375,1631123529,"Migrated from /etc/pihole/adlists.list",1615211090,0,0,4
