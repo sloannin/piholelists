@@ -37,7 +37,7 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 36,https://urlhaus.abuse.ch/downloads/hostfile/,0,1589311157,1591334389,"","",0,0,0
 37,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,0,1589311169,1591334396,"","",0,0,0
 38,https://dbl.oisd.nl/,1,1619220924,1619220924,"",1643760314,1119532,0,2
-39,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1626010080,1626010080,"",1643695516,20277,0,2
+39,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1626010080,1626010080,"",1643825111,20281,0,1
 40,https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt,1,1626730449,1626730449,"",1641500996,1406,0,2
 41,https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt,0,1631803044,1631803644,,1631803082,199596,0,2
 42,https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt,0,1631803354,1631803635,,1631803388,97612,0,1
