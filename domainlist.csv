@@ -323,3 +323,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 342,1,media.trafficjunky.com,1,1634356243,1634356243,"Added from Query Log"
 343,0,engage.vzw.com,1,1641234834,1641234834,"Added from Query Log"
 344,0,mobile-production.content-square.net,1,1641234846,1641234846,"Added from Query Log"
+345,3,(\.|^)samsungads\.com$,1,1644443022,1644443022,
+346,3,(\.|^)samsungotn\.net$,1,1644443044,1644443044,
+347,3,(\.|^)samsungrm\.net$,1,1644443070,1644443070,
+348,1,ads.samsung.com,1,1644443109,1644443109,
