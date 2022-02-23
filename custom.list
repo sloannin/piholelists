@@ -1,4 +1,3 @@
-10.0.1.1 eeroGateway
 10.0.1.22 NestHello
 10.0.1.23 GarageCam
 10.0.1.24 SideYardCam
@@ -13,7 +12,6 @@
 10.0.1.91 DiningPod
 10.0.1.92 OfficePod
 10.0.1.96 DoorbellChime2
-10.0.1.97 Echo
 10.0.1.17 GarageHub
 10.0.1.16 HarmonyHub
 10.0.1.11 hassio
