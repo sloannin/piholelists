@@ -32,12 +32,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 31,0,brightcove.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 32,0,bufferapp.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 33,0,c.apple.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
-34,0,cdn2.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
-35,0,cdn3.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 36,0,cdn.cloudflare.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 37,0,cdn.embedly.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 38,0,cdnjs.cloudflare.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
-39,0,cdn.optimizely.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 40,0,cdn.vidible.tv,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 41,0,cert.mgt.xboxlive.com,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
 42,0,clientconfig.passport.net,1,1589302375,1589302375,"Migrated from /etc/pihole/whitelist.txt"
@@ -310,7 +307,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 329,0,control.kochava.com,1,1625337272,1625337272,"Added from Query Log"
 330,0,ads-field.aylanetworks.com,1,1625551055,1625551055,SharkIQ
 331,3,(\.|^)googleadservices\.com$,1,1625851506,1625851506,""
-332,0,metrics.icloud.com,1,1626180533,1626180533,"Added from Query Log"
 333,1,trafficjunky.com,1,1631730404,1631730404,"Added from Query Log"
 334,3,(\.|^)livehdcams\.com$,1,1631730458,1631730458,
 335,1,m.2020mustang.com,1,1631730913,1631730913,"Added from Query Log"
@@ -331,3 +327,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 350,0,lcprd1.samsungcloudsolution.net,1,1645067673,1645067673,"Added from Query Log"
 351,0,time.samsungcloudsolution.com,1,1645068292,1645068292,
 352,0,d1oxlq5h9kq8q5.cloudfront.net,1,1645068544,1645068544,"Added from Query Log"
+353,0,metrics.icloud.com,1,1648831368,1648831368,"Added from Query Log"
