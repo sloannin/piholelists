@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1656227223,109483,0,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1656700481,122102,0,1
 2,https://mirror1.malwaredomains.com/files/justdomains,0,1589302375,1611118397,"Migrated from /etc/pihole/adlists.list",1607609933,0,0,0
 3,http://sysctl.org/cameleon/hosts,1,1589302375,1589302375,"Migrated from /etc/pihole/adlists.list",1650507122,20562,0,2
 4,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,0,1589302375,1631123529,"Migrated from /etc/pihole/adlists.list",1615211090,0,0,4
@@ -36,8 +36,8 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 35,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,0,1589311148,1591334388,"","",0,0,0
 36,https://urlhaus.abuse.ch/downloads/hostfile/,0,1589311157,1591334389,"","",0,0,0
 37,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,0,1589311169,1591334396,"","",0,0,0
-38,https://dbl.oisd.nl/,1,1619220924,1619220924,"",1656337829,1122535,0,1
-39,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1626010080,1626010080,"",1656337830,22063,0,1
+38,https://dbl.oisd.nl/,1,1619220924,1619220924,"",1656700492,1114343,0,1
+39,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1626010080,1626010080,"",1656700493,22207,0,1
 40,https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt,1,1626730449,1626730449,"",1650507133,1437,0,2
 41,https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt,0,1631803044,1631803644,,1631803082,199596,0,2
 42,https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt,0,1631803354,1631803635,,1631803388,97612,0,1
